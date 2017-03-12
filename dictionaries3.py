@@ -25,6 +25,8 @@ for x,y in clothes1.items():
 # GOD DAMMIT YOU CHEATING SON OF A BITCH
 # Ok, Added the fucking isintance check after digging around stackoverflow 
 # because the example in the book is a CHEATING ASS PIECE OF SHIT
+# and it only works in python2 because basestring apparently doesn't
+# exist in Python3 because FUCK YOU THAT'S WHY
 
 
 # I could put a dictionary in a dictionary now, but honest to god I think
