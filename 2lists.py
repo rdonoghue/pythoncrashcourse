@@ -10,3 +10,6 @@ l2.append("C")
 print(len(l1))
 
 testdict={}
+
+for x in range (1,len(l1)):
+    testdict
